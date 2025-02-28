@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 🎮 Passionate **Gamer & Content Creator**, streaming on Twitch & TikTok (**🇩🇪 German-speaking**)  
-- 💻 Full-stack **Developer**, currently working on **[Lucky V](https://luckyv.de/)**  
+- 💻 Full-stack **Developer**
 - 🛠️ Founder of **[KyuubiSoft](https://kyuubisoft.com)** – Open-Source Scripts & Tools  
 - 🌐 **Founder of [Streamunity](https://streamunity.live)** – A **German streamer community**  
 - 🛠️ Providing **streamer tools**, including:  
